@@ -1,0 +1,2 @@
+fresh_file
+added_line_2
